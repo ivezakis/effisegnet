@@ -1,5 +1,7 @@
 # EffiSegNet Implementation Code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10601024.svg)](https://doi.org/10.5281/zenodo.10601024)
+
 ## Requirements
 
 The environment.yml file contains the list of packages required to run the code. To create the environment, run the following command:
